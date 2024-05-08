@@ -1,0 +1,15 @@
+*{
+    margin:0,
+}
+
+.background{
+    background-color: navy;
+}
+
+.card-title{
+    height: 100px;
+}
+
+.card-text{
+    height: 200;
+}
